@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:whatsmyip/home.dart';
+import 'package:whatsmyip/ui/home.dart';
 
 void main() {
   runApp(MaterialApp(
